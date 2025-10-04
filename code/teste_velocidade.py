@@ -36,3 +36,5 @@ mean_matmul = sum(time_matmult) / len(time_matmult)
 print(mean_dot)
 print(mean_at)
 print(mean_matmul)
+
+
